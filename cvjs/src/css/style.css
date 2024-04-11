@@ -277,10 +277,15 @@ text-align: center;
       visibility:hidden;
     }
 & marquee {
-      font-family: "Butterfly Kids", cursive;
+      font-family: "Butterfly Kids", cursive,;
   font-weight: 600;
   font-style: normal;
   font-size: 1.5em;
 }
   }
+}
+.container-canvas{
+  background-color: gray !important;
+  width: 100vw;
+  height: 100vh;
 }
